@@ -8,6 +8,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) eğitiminde oluşturduğumuz il
 
 ```
 https://github.com/ayzeqq/kodluyoruzilkrepo.git
+```
 
 ## Usage
 
